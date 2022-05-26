@@ -35,7 +35,6 @@ ply==3.11
 pycosat==0.6.3
 pycurl==7.44.1
 pyls-spyder==0.4.0
-pyodbc===4.0.0-unsupported
 PyPDF2==1.27.12
 pyreadline==2.1
 pytest==6.2.4
